@@ -4,7 +4,7 @@ import {juggler} from '@loopback/repository';
 const config = {
   name: 'mangoDB',
   connector: 'mongodb',
-  url: 'mongodb+srv://kalidas:kalidas@loopbackcluster.errng.mongodb.net/userapi?retryWrites=true&w=majority',
+  url: 'mongodb+srv://alphazene:Bangalore@333@cluster0.jpduk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',
   host: '',
   port: 0,
   user: '',
