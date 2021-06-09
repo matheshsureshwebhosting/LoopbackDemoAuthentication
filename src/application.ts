@@ -22,7 +22,7 @@ export class CustomLoopbackAppApplication extends BootMixin(
     super(options);
 
 
-    //set up binding by kalidas
+    //set up binding by mathesh
     this.setupBinding()
 
     // Set up the custom sequence
